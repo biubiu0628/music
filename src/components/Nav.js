@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Logo from "../items/images/mp3-logo.png";
+import Logo from "../images/mp3-logo.png";
 
 const Button = ({ name, children, children2 }) => (
   <button className="flex px-[21px] py-3 items-center gap-3">
